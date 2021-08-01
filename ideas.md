@@ -14,3 +14,5 @@ I Also Need More Info On The Topic.
 3.Notepad (Options : Cloud Or Device.)
 4.Video Of Sea In Background
 5.More Info
+6.Better Perfomance.
+7.App From IOS
