@@ -16,3 +16,5 @@ I Also Need More Info On The Topic.
 5.More Info
 6.Better Perfomance.
 7.App From IOS
+## More Reseriction.
+S** Will Be Locked.
